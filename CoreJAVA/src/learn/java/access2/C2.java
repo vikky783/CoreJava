@@ -8,5 +8,6 @@ import learn.java.access1.A1;
 		//System.out.println("defaultMember: " + defaultMember);
 		System.out.println("protectedMember: " + protectedMember);
 		System.out.println("publicMember: " + publicMember);
+		//I made a change
 	}
 }
